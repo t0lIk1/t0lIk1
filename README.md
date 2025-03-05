@@ -1,5 +1,11 @@
 # Привет, меня зовут [Ваше Имя]! 👋
 
+
+
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlrNTN2YmNuNmVjYm42Y21qbnY3cHd5NWI2Z3MyM3Fld3FqN2p6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width="100"/>
+</div>
+
 [![Codewars](https://www.codewars.com/users/t0lIk1/badges/large)](https://www.codewars.com/users/t0lIk1)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t0lIk1&show_icons=true&theme=radical)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=t0lIk1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
