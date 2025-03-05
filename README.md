@@ -1,57 +1,32 @@
-# Привет, меня зовут [Ваше Имя]! 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anatol
+==============================================================================================================================
 
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+*   ✉️  You can contact me at [anatolijkuzir@gmail.com](mailto:anatolijkuzir@gmail.com)
+*   🧠  I'm learning Nest JS
 
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlrNTN2YmNuNmVjYm42Y21qbnY3cHd5NWI2Z3MyM3Fld3FqN2p6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width="100"/>
+### Skills 
+<p align="left" >
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+                    </p>
+                    
+
+  ### Socials
+                  
+<p align="left"> <a href="https://www.github.com/t0lIk1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/anatoly-kuzhyr/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<div align="center">
+  
+  [![codewars](https://www.codewars.com/users/t0lIk1/badges/large)](https://www.codewars.com/users/t0lIk1) 
+
+<a href="http://www.github.com/t0lIk1"><img src="https://github-readme-stats.vercel.app/api?username=t0lIk1&show_icons=true&hide=issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="t0lIk1's GitHub stats" /></a>
+
+<a href="http://www.github.com/t0lIk1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=t0lIk1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/t0lIk1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0lIk1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
-
-[![Codewars](https://www.codewars.com/users/t0lIk1/badges/large)](https://www.codewars.com/users/t0lIk1)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t0lIk1&show_icons=true&theme=radical)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=t0lIk1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0lIk1&layout=compact)](https://github.com/t0lIk1/github-readme-stats)
-
-## Обо мне 🚀
-
-Я увлеченный разработчик, который любит решать сложные задачи и создавать качественные проекты. Мой опыт включает в себя работу с различными технологиями, и я постоянно стремлюсь к улучшению своих навыков. На Codewars я активно решаю задачи, чтобы оттачивать свои умения.
-
-## Мои навыки 🛠️
-
-- **Языки программирования:** Python, JavaScript, Java, C++  
-- **Фреймворки и библиотеки:** React, Node.js, Flask, Django  
-- **Базы данных:** MySQL, PostgreSQL, MongoDB  
-- **Инструменты:** Git, Docker, VS Code, Linux  
-- **Другое:** Алгоритмы, структуры данных, CI/CD, REST API  
-
-## Мои проекты 🚀
-
-Вот несколько моих ключевых проектов:
-
-1. **[Название проекта 1](ссылка)** - Краткое описание проекта.  
-2. **[Название проекта 2](ссылка)** - Краткое описание проекта.  
-3. **[Название проекта 3](ссылка)** - Краткое описание проекта.  
-
-## Моя статистика на GitHub 📊
-
-- **Репозитории:** [Количество репозиториев]  
-- **Звезды:** [Количество звезд]  
-- **Вклад в Open Source:** [Количество контрибьюшнов]  
-
-## Как со мной связаться 📫
-
-- **Email:** [ваш email]  
-- **Telegram:** [ваш Telegram]  
-- **LinkedIn:** [ваш LinkedIn]  
-- **Twitter:** [ваш Twitter]  
-
-## Мои цели на будущее 🌟
-
-- Изучить новые технологии, такие как [название технологии].  
-- Участвовать в больше количестве Open Source проектов.  
-- Разработать собственный продукт, который поможет людям.  
-
-## Поддержка ⭐
-
-Если вам нравится то, что я делаю, поставьте звездочку на моих репозиториях или поддержите меня на [платформе, например, Patreon, BuyMeACoffee и т.д.].  
-
-Спасибо за посещение моего профиля! 😊  
